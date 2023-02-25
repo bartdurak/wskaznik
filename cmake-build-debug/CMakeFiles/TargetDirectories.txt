@@ -1,0 +1,3 @@
+/home/fed36/CLionProjects/wskaznik/cmake-build-debug/CMakeFiles/wskaznik.dir
+/home/fed36/CLionProjects/wskaznik/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fed36/CLionProjects/wskaznik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
